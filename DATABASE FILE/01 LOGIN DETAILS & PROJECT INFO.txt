@@ -1,0 +1,12 @@
+**Database Name: hotelms**
+
+**Developed by ROOMAN,FATIMA SIDDIQUI,BARIRA BABAR,SAMEEN**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Login Details**
+
+username: STUDENT
+password: student
+
